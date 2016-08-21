@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Circulove</string>
+    <string name="google_maps_api_key">AIzaSyCb-Kz1cRZw5hTa9xlwPhdwmCcHuBzDFlU</string>
+    <string name="snackbar_text">AIzaSyCb-Kz1cRZw5hTa9xlwPhdwmCcHuBzDFlU</string>
+    <string name="logout">Logout</string>
+    <string name="loginText">Please login with your Google Account</string>
+    <!--<string name="USE_CREDENTIALS">964787871807-up2k3qeu27jv2jmc27jc5keob1es7ge7.apps.googleusercontent.com</string> -->
+
+    <!-- Button text -->
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+
+    <string name="play_services_error">Google Play services is not available.  This application will close.</string>
+    <string name="close">Close</string>
+
+    <string name="facebook_app_id">1275083159168526</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
