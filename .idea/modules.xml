@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Circulove.iml" filepath="$PROJECT_DIR$/Circulove.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circulove.iml" filepath="$PROJECT_DIR$/circulove.iml" />
     </modules>
   </component>
 </project>
